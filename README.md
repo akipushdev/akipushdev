@@ -24,10 +24,10 @@ Java · Spring Boot · Kafka · Kubernetes · ClickHouse · PostgreSQL · AWS / 
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| [generic-rag-agent](https://github.com/aipushdev/generic-rag-agent) | Universal RAG platform - upload docs, set a prompt, get an assistant | 🟢 Live at [aipush.dev](https://aipush.dev) |
-| [psychoai-rag-assistant](https://github.com/aipushdev/psychoai-rag-assistant) | Production RAG bot for gestalt therapy knowledge base — Faithfulness = 1.0 (RAGAS) | ✅ Production |
-| [multimodal-telegram-bot](https://github.com/aipushdev/multimodal-telegram-bot) | Telegram bot with text + voice (Whisper) + photo (Gemini Vision) + image generation | ✅ Complete |
-| [ai-personal-assistant](https://github.com/aipushdev/ai-personal-assistant) | Universal AI assistant — text, voice (Whisper STT + TTS), vision, DALL-E 3, RAG over your docs | ✅ Complete |
+| [generic-rag-agent](https://github.com/akipushdev/generic-rag-agent) | Universal RAG platform - upload docs, set a prompt, get an assistant | 🟢 Live at [aipush.dev](https://aipush.dev) |
+| [psychoai-rag-assistant](https://github.com/akipushdev/psychoai-rag-assistant) | Production RAG bot for gestalt therapy knowledge base — Faithfulness = 1.0 (RAGAS) | ✅ Production |
+| [multimodal-telegram-bot](https://github.com/akipushdev/multimodal-telegram-bot) | Telegram bot with text + voice (Whisper) + photo (Gemini Vision) + image generation | ✅ Complete |
+| [ai-personal-assistant](https://github.com/akipushdev/ai-personal-assistant) | Universal AI assistant — text, voice (Whisper STT + TTS), vision, DALL-E 3, RAG over your docs | ✅ Complete |
 
 ---
 
@@ -50,4 +50,4 @@ Java · Spring Boot · Kafka · Kubernetes · ClickHouse · PostgreSQL · AWS / 
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aipushdev&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/aipushdev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akipushdev&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/akipushdev)
